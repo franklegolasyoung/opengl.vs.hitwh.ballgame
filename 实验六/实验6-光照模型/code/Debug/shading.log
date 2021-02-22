@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  shading.cpp
+  shading.vcxproj -> C:\Users\Frank\Desktop\图形学\实验6-光照模型\code\Debug\shading.exe

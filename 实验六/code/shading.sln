@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shading", "shading.vcxproj", "{A003BFC1-26BA-4A0C-A809-264A97C98484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A003BFC1-26BA-4A0C-A809-264A97C98484}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A003BFC1-26BA-4A0C-A809-264A97C98484}.Debug|Win32.Build.0 = Debug|Win32
+		{A003BFC1-26BA-4A0C-A809-264A97C98484}.Release|Win32.ActiveCfg = Release|Win32
+		{A003BFC1-26BA-4A0C-A809-264A97C98484}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBE6ED1-FF33-41E0-B460-16EEA97FEA9C}
+	EndGlobalSection
+EndGlobal
